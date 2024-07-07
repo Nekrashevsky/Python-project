@@ -1,4 +1,5 @@
 import unittest
+from calculator import evaluate_expression
 
 class TestCalculator(unittest.TestCase):
 
